@@ -10,7 +10,10 @@ Analyzed ~10,000 transactions (2014-2017) to uncover revenue drivers and profit 
 Dataset: [Kaggle Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Key Metrics
-![Superstore Summary Dashboard](visuals/1.png)
+
+<p align="center">
+  <img src="visuals/1.png" alt="Superstore Summary Dashboard" width="800"/>
+</p>
 
 - Total Sales: Rs2,297,201
 - Total Profit: Rs286,397 (12.5% margin)
@@ -24,23 +27,36 @@ Dataset: [Kaggle Superstore](https://www.kaggle.com/datasets/vivek468/superstore
 - **Loss Makers**: Tables/Bookcases (-Rs19K combined from >20% discounts). **Action**: Cap discounts at 15%.
 - **Trends**: Sales +20% in 2017; Q4 peaks—boost holiday marketing.
 
-
 ## Excel Analysis
 - Cleaned data (added Margin/Year columns).
 - PivotTables for breakdowns.
-![Yearly Trends](visuals/8.png)
 
-![Regional Breakdown](visuals/2.png)
+<p align="center">
+  <img src="visuals/8.png" alt="Yearly Sales & Profit Trends with YoY Growth" width="800"/>
+  <br>
+  <em>Yearly Sales & Profit Trends with YoY Growth</em>
+</p>
 
-![Category Breakdown](visuals/3.png)
+<p align="center">
+  <img src="visuals/2.png" alt="Regional Sales & Profit Breakdown" width="800"/>
+  <br>
+  <em>Regional Sales & Profit Breakdown</em>
+</p>
 
-![Top Products](visuals/6.png)
+<p align="center">
+  <img src="visuals/3.png" alt="Category & Sub-Category Performance" width="800"/>
+  <br>
+  <em>Category & Sub-Category Performance</em>
+</p>
 
-
-<!-- Add more ![]() for others -->
+<p align="center">
+  <img src="visuals/6.png" alt="Top Products by Sales & Profit" width="800"/>
+  <br>
+  <em>Top Products by Sales & Profit</em>
+</p>
 
 ## SQL Queries
-See [data_cleaning.sql](scripts/data_cleaning.sql) for totals and filters.
+See [data_cleaning.sql](scripts/data_cleaning.sql) for totals and-Dimensional filters.
 
 ## Next: Power BI Dashboard
 Interactive version coming (PBIX file).
