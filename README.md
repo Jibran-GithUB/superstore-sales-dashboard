@@ -10,7 +10,7 @@ Analyzed ~10,000 transactions (2014-2017) to uncover revenue drivers and profit 
 Dataset: [Kaggle Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Key Metrics
-<image-card alt="Summary KPIs" src="visuals/1.png" ></image-card>
+![Yearly Trends](visuals/1.png)
 
 - Total Sales: Rs2,297,201
 - Total Profit: Rs286,397 (12.5% margin)
@@ -28,8 +28,15 @@ Dataset: [Kaggle Superstore](https://www.kaggle.com/datasets/vivek468/superstore
 ## Excel Analysis
 - Cleaned data (added Margin/Year columns).
 - PivotTables for breakdowns.
-<image-card alt="Yearly Trends" src="visuals/8.png" ></image-card>
-<image-card alt="Loss Makers" src="visuals/5.png" ></image-card>
+![Yearly Trends](visuals/8.png)
+
+![Regional Breakdown](visuals/2.png)
+
+![Category Breakdown](visuals/3.png)
+
+![Top Products](visuals/6.png)
+
+
 <!-- Add more ![]() for others -->
 
 ## SQL Queries
