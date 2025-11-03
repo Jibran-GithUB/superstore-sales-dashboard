@@ -10,7 +10,7 @@ Analyzed ~10,000 transactions (2014-2017) to uncover revenue drivers and profit 
 Dataset: [Kaggle Superstore](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Key Metrics
-![Yearly Trends](visuals/1.png)
+![Superstore Summary Dashboard](visuals/1.png)
 
 - Total Sales: Rs2,297,201
 - Total Profit: Rs286,397 (12.5% margin)
