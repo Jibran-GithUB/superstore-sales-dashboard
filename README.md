@@ -61,4 +61,53 @@ See [data_cleaning.sql](scripts/data_cleaning.sql) for totals and-Dimensional fi
 ## Next: Power BI Dashboard
 Interactive version coming (PBIX file).
 
+---
+
+## 📊 Power BI Dashboard Update
+
+The Power BI dashboard has now been developed and integrated into this project.  
+It provides key insights through **KPIs, target gauges, and an interactive ArcGIS Map** for visualizing geographical data.
+
+### 🔍 Dashboard Overview
+This dashboard includes:
+- Key Performance Indicators (KPIs) for project monitoring  
+- Target vs Achievement Gauges  
+- ArcGIS Map displaying geographical insights  
+- Clustered Bar chart summarizing performance metrics  
+
+---
+
+### 📁 Files Included
+
+| File Type | Description | File Path |
+|------------|--------------|------------|
+| `.pbix` | Power BI source file | `PowerBI/superstore_dashboard.pbix` |
+| `.png` | Overview of Dashboard | `PowerBI/pbi_overview.png` |
+| `.png` | Bar Chart | `PowerBI/pbi_profit_gradient.png` |
+| `.png` | ArcGIS Map Snapshot | `PowerBI/pbi_map.png` |
+
+---
+
+### 🖼️ Preview
+
+#### Dashboard Overview
+![Dashboard Overview](PowerBI/pbi_overview.png)
+
+#### KPI Bar Chart
+![Bar Chart](PowerBI/pbi_profit_gradient.png)
+
+#### ArcGIS Map
+![ArcGIS Map](PowerBI/pbi_map.png)
+
+---
+
+### 📈 Insights
+The Power BI dashboard enhances data visualization and decision-making by integrating:
+- **Real-time performance tracking**
+- **Geographical trend analysis through ArcGIS**
+- **Dynamic visual gauges and KPIs**
+
+---
+
+
 Built by MJS | [LinkedIn/GitHub] | Open to data roles!
